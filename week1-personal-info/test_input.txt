@@ -1,0 +1,9 @@
+Test 1:
+Food: Pizza
+Color: Blue
+
+Test 2:
+Food:
+Food: Burger
+Color:
+Color: Red
