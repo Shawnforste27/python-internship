@@ -1,0 +1,28 @@
+Week 4: File Handling and Final Project
+--------------------------------------
+
+This file is a sample text file created for Week 4.
+
+In Week 4, I learned about:
+- Reading from and writing to files
+- Using text files and JSON files for data storage
+- Working with CSV files
+- Using the "with" statement for file handling
+- Handling file errors using try and except
+- Organizing code into multiple files and modules
+
+Project Summary:
+For Week 4, I created a Personal Finance Tracker using Python.
+
+The program allows the user to:
+- Add expenses with date, amount, and category
+- Save expense data to a JSON file
+- Load saved data when the program starts
+- Generate simple reports
+- Export data to a CSV file
+
+This project helped me understand how file handling
+can be used in real-life applications.
+
+This text file is included as a sample to demonstrate
+basic file handling concepts.

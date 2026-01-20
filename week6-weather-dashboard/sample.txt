@@ -1,0 +1,46 @@
+====================================
+        WEATHER DASHBOARD
+====================================
+
+Enter city name: London
+
+Current Weather
+----------------
+City: London, UK
+Temperature: 9°C
+Feels Like: 7°C
+Weather: Light Rain
+Humidity: 82%
+Wind Speed: 18 km/h
+
+------------------------------------
+
+5-Day Forecast
+----------------
+Day 1: 10°C | Rainy
+Day 2: 9°C  | Cloudy
+Day 3: 8°C  | Cloudy
+Day 4: 11°C | Sunny
+Day 5: 12°C | Sunny
+
+------------------------------------
+Data Source: OpenWeather API
+Status: Data loaded successfully
+
+Options:
+1. Search another city
+2. Change temperature unit (C/F)
+3. Exit
+
+Enter your choice: 2
+Temperature unit changed to Fahrenheit.
+
+Temperature: 48°F
+Feels Like: 44°F
+
+------------------------------------
+
+Enter your choice: 3
+Exiting Weather Dashboard.
+Thank you!
+====================================

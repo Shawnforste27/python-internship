@@ -1,0 +1,27 @@
+Week 3: Functions and Dictionaries
+---------------------------------
+
+This file is a sample text file created for Week 3 practice.
+
+In Week 3, I learned about:
+- Creating functions using the def keyword
+- Passing parameters to functions
+- Returning values from functions
+- Using dictionaries to store data in key-value format
+- Using string methods like lower(), upper(), strip(), and split()
+- Understanding local and global variables
+
+Project Summary:
+I created a Contact Management System using Python.
+The program allows the user to:
+- Add new contacts
+- Search contacts by name
+- Update existing contacts
+- Delete contacts
+- View all saved contacts
+
+Contacts are stored using dictionaries, where the contact name is the key
+and phone number and email are stored as values.
+
+This text file is used as a sample for understanding
+basic file handling concepts.
